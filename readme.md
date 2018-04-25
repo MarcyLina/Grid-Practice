@@ -1,10 +1,11 @@
 ![jiggy Will](https://media.giphy.com/media/kLM9I1g8jsiAM/giphy.gif)
 # Gettin' Griddy Wit' It
-Just refreshing my CSS grid knowledge, using a Wes Bos course online. If ya don't use it, ya lose it!
+Just refreshing my CSS grid knowledge, via Wes Bos. If ya don't use it, ya lose it!
 
-### This Repo Contains:
-- Nested Grid Layout
+### Practiced Techniques/Projects:
+- Spanning, placement, movement, sizing and naming convention fundamentals and essentials
+- Nested Grids
+- Responsiveness
 - Image gallery
 - Blog layout
-- Responsive sizing
 - Results of a spanning/placement quiz
